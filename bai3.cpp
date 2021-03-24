@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 void writeArray(int *a, int m)
@@ -23,8 +22,6 @@ int countCase(int *a, int m, int n)
 	}
 	return count;
 }
-
-
 
 int main()
 {
