@@ -12,8 +12,6 @@ int main()
 		cin >> n;
 		if (n != temp)
 			cout << temp << " ";
-		if (n == temp)
-			continue;
 		temp = n;
 	}
 	cout << n;
